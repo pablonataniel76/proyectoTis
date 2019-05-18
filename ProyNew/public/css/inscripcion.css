@@ -1,0 +1,33 @@
+.prueba{
+  float: left;
+  /* border: solid; */
+  padding: 10px 20px;
+  /* margin: 15px 10px; */
+  width: 300px;
+  
+}
+.prueba1{
+  float: left;
+  padding: 0px 20px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+  height: 300px;
+  width: 300px;
+  
+}
+.pad{
+  padding: 0px 20px;  
+}
+.card1 {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  /* word-wrap: break-word; */
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
